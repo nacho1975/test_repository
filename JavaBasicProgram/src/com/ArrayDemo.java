@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class ArrayDemo {
 
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);5
+		Scanner sc = new Scanner(System.in);
 		System.out.println("How many number do you want to store?");
 		int size = sc.nextInt();
 		int data[]=new int[size];
